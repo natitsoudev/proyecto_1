@@ -1,0 +1,11 @@
+.header__wrapper{
+    background-color: blueviolet;
+}
+
+.body__wrapper {
+    background-color: green;
+}
+
+.footer__wrapper {
+    background-color: lightblue;
+}
